@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AliciaPueyoAzuara
+- 👀 I’m interested in css and svg animation
+- 🌱 I’m currently learning at Platzi
+- 💞️ I’m looking to collaborate on animation
+- 📫 How to reach me? pastadepaper@gmail.com 
